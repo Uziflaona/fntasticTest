@@ -1,5 +1,7 @@
 #include <iostream>
 #include <map>
+#include <string>
+#include <cwctype>
 
 int main() {
 	setlocale(LC_ALL, "");
